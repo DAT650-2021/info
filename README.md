@@ -15,9 +15,9 @@ You can find here:
 
 | Day | Time | | Room |
 |----|------|---|------|
-| Tuesday  | 8:15 - 10:00 | Lecture | D-223 |
-| Tuesday | 10:15 - 12:00 | Lab | D-223 |
-| Friday | 8:15 - 10:00 | Lecture | D-223 |
+| Tuesday  | 8:15 - 10:00 | Lecture | D-225 |
+| Tuesday | 10:15 - 12:00 | Lab | D-225 |
+| Friday | 8:15 - 10:00 | Lecture | D-205 |
 
 ## Lectures
 

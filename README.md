@@ -34,13 +34,13 @@ You can find here:
 |Tue 24.Aug | Lab | Online | Rodrigo | Lab 1 |  |
 |Fri 27.Aug | Lecture | Online | Leander | Transactions and UTXO | [Script](script.pdf) Chapter 2, [Princton book](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf) Chapter 1.4 and 1.5 |
 |Tue 31.Aug | Lecture | Online | Leander | Proof of Work | [Script](script.pdf) Chapter 3.1 - 3.3, Videos [11](https://youtu.be/ehO-TKhuAro) and [13](https://youtu.be/B7O5yDY4_N0)  | 
-|Tue 31.Aug | Lab | D-223 | Rodrigo |  Lab 1 |  |
+|Tue 31.Aug | Lab | D-225 | Rodrigo |  Lab 1 |  |
 |Fri 03.Sep | Lecture | Online | Leander | Proof of Work - Forks | Chapter 3.4 [slides](slides/Lecture-4.pdf) |
 |Tue 07.Sep | Lecture | Online | Leander | Selfish mining | Chapter 3.5 [slides](slides/Lecture-5.pdf) |
 |Tue 07.Sep | Lab | Online | Rodrigo |  Lab 2 |  |
 |Fri 10.Sep | Lecture | Online | Leander | Network attacks and hard and soft forks | Chapter 3.6 - 3.8, [slides](slides/Lecture-6.pdf) |
 |Tue 14.Sep | Lecture | Online | Leander | Alternative PoW and Scaling PoW (reparametrization) | Chapter 4 and 5.1,[slides](slides/Lecture-7.pdf), [Video](https://youtu.be/TipGy2bOVL4)  |
-|Tue 14.Sep | Lab | D-223 | Rodrigo |  Lab 2 |  |
+|Tue 14.Sep | Lab | D-225 | Rodrigo |  Lab 2 |  |
 |Fri 17.Sep | Lecture | Online | Leander | Bitcoin-NG and Sharding | Chapter 5.2 and 5.3, [Bitcoin-NG](https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/eyal) [Sharding](https://www.usenix.org/conference/nsdi19/presentation/wang-jiaping), [slides](slides/Lecture-8.pdf) |
 |Tue 21.Sep | Lecture | ? | Arian | Proof of Stake | |
 |Tue 21.Sep | Lab | ? | Arian | Project |  |

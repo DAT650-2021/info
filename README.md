@@ -55,19 +55,19 @@ You can find here:
 |Tue 12.Oct | Lab | ? | Arian | Project |  |
 |Fri 15.Oct | Lecture | ? | Arian | Ethereum | Chapter 9.1, [slides](slides/Lecture-12.pdf)  |
 |Tue 19.Oct | Lecture | ? | Arian | Learn Solidity | [crypto-zombies](https://cryptozombies.io/en/course) |
-|Tue 19.Oct | Lab | ? | Rodrigo | Lab 4 |  |
+|Tue 19.Oct | Lab | D-225 | Rodrigo | Lab 3 |  |
 |Fri 22.Oct | Lecture | ? | Arian | Smart Contracts | [example](solidity/solidityDevelopment.md) |
 |Tue 26.Oct | Lecture | ? | Arian | Smart Contract security | [slides](slides/SmartContractSecurity.pdf), [reading](https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc), [examples](solidity/security) |
-|Tue 26.Oct | Lab | ? | Rodrigo | Lab 4 |  |
+|Tue 26.Oct | Lab | Online | Rodrigo | Lab 3 |  |
 |Fri 29.Oct | Lecture | ? | Arian | Oracles and Off chain networks| [slides](slides/Lecture-14.pdf) |
 |Tue 02.Nov | Lecture | ? | Arian | Stellar and System models | Chapter 6, [slides](slides/Lecture-9.pdf) |
-|Tue 02.Nov | Lab | ? | Rodrigo | Lab 5 |  |
-|Fri 05.Nov | Lecture | online | Leander | BFT 1 | Chapter 7.1 & 7.2, [slides](slides/Lecture-10.pdf) |
+|Tue 02.Nov | Lab | Online | Rodrigo | Lab 4 |  |
+|Fri 05.Nov | Lecture | Online | Leander | BFT 1 | Chapter 7.1 & 7.2, [slides](slides/Lecture-10.pdf) |
 |Tue 09.Nov | Lecture | ? | Arian | Hybrid | Chapter 8, [slides](slides/Lecture-11.pdf) |
-|Tue 09.Nov | Lab | ? | Rodrigo | Lab 5 |  |
-|Fri 12.Nov | Lecture | online | Leander | Privacy | [slides](slides/Lecture-16.pdf) |
+|Tue 09.Nov | Lab | Online | Rodrigo | Lab 4 |  |
+|Fri 12.Nov | Lecture | Online | Leander | Privacy | [slides](slides/Lecture-16.pdf) |
 |Tue 16.Nov | Lecture | ? | Arian | Use cases | [slides](slides/Lecture-15.pdf) |
-|Tue 16.Nov | Lab | ? | Rodrigo | Lab 5 |  |
+|Tue 16.Nov | Lab | Online | Rodrigo | Lab 4 |  |
 |Fri 19.Nov | Lecture | online | Leander & Arian | Question and Answer |  |
 
 ## Lab

@@ -5,4 +5,5 @@
 | 1       | Hash-chain   | [whiteboard](whiteboard/Hashchains.pdf)       |                                       |[1](notebooks/lecture1_hashes.ipynb)|
 | 2       | Transactions | [whiteboard](whiteboard/TransactionsUTXO.pdf) | [video](https://youtu.be/e6HOw7ZSvo8) |[2](notebooks/lecture2_tx.ipynb)|
 | 3       | PoW          | [whiteboard](whiteboard/PoW.pdf)              | [video](https://youtu.be/3YVRip2hGIg) |[3](notebooks/lecture3_PoW.ipynb)|
-| 4       | Forks        | [whiteboard](whiteboard/Forks.pdf)              | [video](https://youtu.be/LEEQAFXfebY) |[3](notebooks/lecture4_Forks.ipynb)|
+| 4       | Forks        | [whiteboard](whiteboard/Forks.pdf)              | [video](https://youtu.be/LEEQAFXfebY) |[4](notebooks/lecture4_Forks.ipynb)|
+| 5       | Mining Attacks | [whiteboard](whiteboard/Attacks.pdf)              | [video](https://youtu.be/_rJ7BfL202w) |[5](notebooks/lecture5_Attacks.ipynb)|

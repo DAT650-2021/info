@@ -8,3 +8,4 @@
 | 4       | Forks        | [whiteboard](whiteboard/Forks.pdf)            | [video](https://youtu.be/LEEQAFXfebY) |[4](notebooks/lecture4_Forks.ipynb)|
 | 5       | Mining Attacks | [whiteboard](whiteboard/Attacks.pdf)        | [video](https://youtu.be/_rJ7BfL202w) |[5](notebooks/lecture5_Attacks.ipynb)|
 | 6       | Network Attacks | [whiteboard](whiteboard/NetworkAttacks_Updates.pdf)        | [video](https://youtu.be/1xzTp8kFFfA) |[5](notebooks/lecture6_SoftAndHardForks_Solution.ipynb)|
+| 6       | Network Attacks | [whiteboard](whiteboard/NetworkAttacks_Updates.pdf)        | [video](https://youtu.be/GcP6Tu-S8Xw) |[5](notebooks/lecture6_SoftAndHardForks_Solution.ipynb)|

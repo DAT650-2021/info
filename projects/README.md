@@ -11,10 +11,7 @@
 
 ## Project topics
 
-An example from last year can be found here.
-* [Selfish mining project](selfish.md)
-
-Projects for this year will be made available before registration.
+Project topics are available at [project.md](project.md).
 
 If you want to do a different project, please talk to us.
 

@@ -1,7 +1,10 @@
+
+
 # Project
 
 In this project, you should choose one of the subjects below and create a Jupyter Notebook similar to those used during the lectures. This Notebook should contain different stubs for modelling the subject that you chose, experiments, charts, and notes. Note that the Notebook you deliver is considered as the report for the project, so it should contain enough explanations and analysis to show
 * How you modelled different parts of the project
+* What limitations and abstractions your model has
 * What experiments you have done 
 * The results of your experiments (preferably with charts and tables)
 * Explanations on your results
@@ -52,7 +55,6 @@ The goal of this project is to model Bitcoin NG. In this project, you are expect
 * Model forks. 
 * Model reward mechanism and incentives. 
 * Verify that wrong reward distribution allows attacks.
-* Model selfish mining (only one attacker) in this blockchain. 
 
 Try to answer the following questions with your experiments:
 

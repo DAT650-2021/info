@@ -11,6 +11,7 @@ In this project, you should choose one of the subjects below and create a Jupyte
 
 You can use lecture notebooks as a starting point. 
 
+Note that it is also possible to use Goland for the project. In this case, you need to submit a latex report along with the code instead of the notebook. The latex report should contain explanations about your code, the results of your experiments, charts, figures, etc. 
 
 ## Project 1: Selfish and Stubborn Mining
 The goal of this project is to model selfish mining in Bitcoin. In this project, you are expected to:

@@ -5,7 +5,7 @@
 | Subject:         | DAT650 Blockchain Technology |
 | Registration:    | 28. SEP                      |
 | Presentation:    | 12. OCT                      |
-| Deadline:        | 15. OCT (23:59)              |
+| Deadline:        | 19. OCT (23:59)              |
 | Expected effort: | 3 weeks                    |
 | Grading:         | A-F counts 40% of final grade |
 

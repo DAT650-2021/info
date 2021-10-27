@@ -5,16 +5,13 @@
 | Subject:         | DAT650 Blockchain Technology |
 | Registration:    | 28. SEP                      |
 | Presentation:    | 12. OCT                      |
-| Deadline:        | 15. OCT (23:59)              |
+| Deadline:        | 19. OCT (23:59)              |
 | Expected effort: | 3 weeks                    |
 | Grading:         | A-F counts 40% of final grade |
 
 ## Project topics
 
-An example from last year can be found here.
-* [Selfish mining project](selfish.md)
-
-Projects for this year will be made available before registration.
+Project topics are available at [project.md](project.md).
 
 If you want to do a different project, please talk to us.
 

@@ -12,4 +12,5 @@
 | 8       | BitcoinNG and Sharding | [whiteboard](whiteboard/AdvancedScaling.pdf)        | [video](https://youtu.be/RDdaTuu8UiQ) ||
 | 9       | PoS          | [slides](slides/PoS.pdf)        | [video]() |[9](notebooks/lecture9_PoS.ipynb)|
 | 10       | Ethereum    | [slides](slides/lecture-12.pdf)        | [video](https://youtu.be/WJ72AZc8a34) ||
-| 11       | Smart Contracts    | [whiteboard](whiteboard/SmartContracts.png)        | [video](https://youtu.be/nlWee3QTePQ) |[9](notebooks/lecture11_sc.sol)|
+| 11       | Smart Contracts    | [whiteboard](whiteboard/SmartContracts.png)        | [video](https://youtu.be/nlWee3QTePQ) |[11](notebooks/lecture11_sc.sol)|
+| 12       | SC Security | [slides](slides/SmartContractSecurity.pdf)        | [video](https://youtu.be/jTqWWEN8ne8) |[11](notebooks/lecture12_sc.sol)|

@@ -10,5 +10,6 @@
 | 6       | Network Attacks | [whiteboard](whiteboard/NetworkAttacks_Updates.pdf)        | [video](https://youtu.be/1xzTp8kFFfA) |[6](notebooks/lecture6_SoftAndHardForks_Solution.ipynb)|
 | 7       | PoW alternatives and scaling | [whiteboard](whiteboard/PoWAlternative&Scaling.pdf)        | [video](https://youtu.be/GcP6Tu-S8Xw) |[7](notebooks/lecture7_GHOST.ipynb)|
 | 8       | BitcoinNG and Sharding | [whiteboard](whiteboard/AdvancedScaling.pdf)        | [video](https://youtu.be/RDdaTuu8UiQ) ||
-| 9       | PoS          | [Slides](slides/PoS.pdf)        | [video]() |[9](notebooks/lecture9_PoS.ipynb)|
-| 10       | Ethereum          | [Slides](slides/lecture-12.pdf)        | [video](https://youtu.be/WJ72AZc8a34) ||
+| 9       | PoS          | [slides](slides/PoS.pdf)        | [video]() |[9](notebooks/lecture9_PoS.ipynb)|
+| 10       | Ethereum    | [slides](slides/lecture-12.pdf)        | [video](https://youtu.be/WJ72AZc8a34) ||
+| 11       | Smart Contracts    | [whiteboard](whiteboard/SmartContracts.png)        | [video](https://youtu.be/nlWee3QTePQ) |[9](notebooks/lecture11_sc.sol)|

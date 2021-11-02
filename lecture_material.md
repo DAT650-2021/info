@@ -11,3 +11,4 @@
 | 7       | PoW alternatives and scaling | [whiteboard](whiteboard/PoWAlternative&Scaling.pdf)        | [video](https://youtu.be/GcP6Tu-S8Xw) |[7](notebooks/lecture7_GHOST.ipynb)|
 | 8       | BitcoinNG and Sharding | [whiteboard](whiteboard/AdvancedScaling.pdf)        | [video](https://youtu.be/RDdaTuu8UiQ) ||
 | 9       | PoS          | [Slides](slides/PoS.pdf)        | [video]() |[9](notebooks/lecture9_PoS.ipynb)|
+| 10       | Ethereum          | [Slides](slides/lecture-12.pdf)        | [video](https://youtu.be/WJ72AZc8a34) ||

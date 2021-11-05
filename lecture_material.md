@@ -16,3 +16,4 @@
 | 12       | SC Security | [slides](slides/SmartContractSecurity.pdf)    | [video](https://youtu.be/jTqWWEN8ne8) |[12](notebooks/lecture12_sc.sol)|
 | 13       | Oracles and Offchain | [slides](slides/lecture-14.pdf)      | [video](https://youtu.be/pT88vTQp1Vw) ||
 | 14       | System models | [slides](slides/lecture-9.pdf)              | [video](https://youtu.be/pT88vTQp1Vw) ||
+| 15       | BFT & HotStuff | [slides](whiteboard/BFT_HotStuff.pdf)              | [video](https://youtu.be/7WbW6eyd0ro) ||

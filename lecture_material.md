@@ -19,3 +19,4 @@
 | 15       | BFT & HotStuff | [slides](whiteboard/BFT_HotStuff.pdf)              | [video](https://youtu.be/7WbW6eyd0ro) ||
 | 16       | Hybrid | [slides](slides/lecture-11.pdf)              | ||
 | 17       | Use Cases | [slides](slides/lecture-15.pdf)              | [video](https://youtu.be/Pw9hPcBgIGU) ||
+| 18       | Privacy   | [slides](slides/Lecture-16.pdf)              | [video](https://youtu.be/GtBlZG_l7Ss) ||

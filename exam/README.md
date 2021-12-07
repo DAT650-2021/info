@@ -65,3 +65,4 @@ Exam takes place Monday 13. December.
 | 14:00 - 14:20 | Øystein Sunde Thomassen |
 | 15:00 - 15:20 | Brynjar Steinbakk Ulriksen |
 | 15:30 - 15:50 | Vera Yaseneva |
+| 16:00 - 16:20 | Tor-Fredrik Torgersen |
